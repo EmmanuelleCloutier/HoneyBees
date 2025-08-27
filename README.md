@@ -4,6 +4,7 @@
 HoneyBees Quests is a third-person simulation game developed in Unreal Engine.  
 The player takes the role of a beekeeper who collects pollen, transforms it into honey (the main currency), and buys bees to assist in their progression.  
 The game includes mini-games (Tower Defense, DDR, Puzzle) and quests that unlock new areas and ultimately lead to a battle against a giant insect boss.
+Inspiration mainly from beeswam simulator on roblox
 
 ---
 
