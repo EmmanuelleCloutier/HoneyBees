@@ -16,7 +16,7 @@ The game includes mini-games (Tower Defense, DDR, Puzzle) and quests that unlock
 
 ---
 
-## ⚙Main Systems
+## Main Systems
 
 ### Player
 - Third-person movement
@@ -79,6 +79,6 @@ The game includes mini-games (Tower Defense, DDR, Puzzle) and quests that unlock
 
 ---
 
-## 📌 Final Goal
+## Final Goal
 A stable and playable prototype fully implemented in C++ for core systems, with UI and visuals in Blueprints.  
 The game should include the full gameplay loop, quests, mini-games, and a final boss fight.
