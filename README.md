@@ -7,7 +7,7 @@ The game includes mini-games (Tower Defense, DDR, Puzzle) and quests that unlock
 
 ---
 
-## 🎮 Core Gameplay Loop
+## Core Gameplay Loop
 1. **Collect pollen** in flower fields.
 2. **Convert pollen into honey** at the hive.
 3. **Buy bee eggs** to obtain allies.
@@ -16,7 +16,7 @@ The game includes mini-games (Tower Defense, DDR, Puzzle) and quests that unlock
 
 ---
 
-## ⚙️ Main Systems
+## ⚙Main Systems
 
 ### Player
 - Third-person movement
@@ -53,7 +53,10 @@ The game includes mini-games (Tower Defense, DDR, Puzzle) and quests that unlock
 - Giant insect enemy
 - Bees auto-attack
 - Boss HP bar and victory conditions
-## 🛠️ Tools & Best Practices
+
+---
+  
+## Tools & Best Practices
 
 - **Enums**
   - `EBeeRarity` → Common, Rare, Legendary
